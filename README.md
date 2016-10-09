@@ -1,2 +1,2 @@
 # cs320
-haskell assignment
+assignments for cs320 using haskell
